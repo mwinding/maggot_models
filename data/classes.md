@@ -23,6 +23,8 @@ Sensory
          - Paper: https://elifesciences.org/articles/28387
       - Temperature
          - Paper: no paper
+      - v'td sensories (tracheal dendrite)
+         - Paper: https://www.ncbi.nlm.nih.gov/pubmed/29367405, https://elifesciences.org/articles/16799
 
 Output 
 --- 
